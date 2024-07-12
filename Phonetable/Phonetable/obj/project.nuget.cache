@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Y+8IQDswFLyuYT6j3wAJ3JJgxb1D48Lf5zAUXsJtW2If3lxiX1k9RLX3c/3lhDHLjtGa0wPIR9AEOZEhJcgMQ==",
+  "success": true,
+  "projectFilePath": "R:\\Baranov\\Phonetable\\Phonetable\\Phonetable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\534\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\534\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\534\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\534\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
